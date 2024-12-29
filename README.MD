@@ -260,7 +260,8 @@ https://github.com/user-attachments/assets/86299277-fd78-45ca-bc40-f03e02b850a1
 
 #### 환율 계산기 페이지  
 다양한 통화의 환율을 계산하고 환전 금액을 쉽게 확인할 수 있는 페이지.  
-https://github.com/user-attachments/assets/e299c7c9-2653-4929-86fe-c63b267ca63b
+
+https://github.com/user-attachments/assets/3a61746b-4509-49e8-ac65-a1ad2ab06bb0
 
 https://github.com/user-attachments/assets/5b0d9052-39b4-4ba8-b9e4-2773e9a50c61
 
