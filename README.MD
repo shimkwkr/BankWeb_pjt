@@ -215,22 +215,19 @@
 <br/>
 
 #### 메인 페이지  
-: 서비스의 주요 기능에 대한 개요와 네비게이션을 제공.  
+: 서비스의 주요 기능에 대한 개요와 네비게이션을 제공.
 
 ##### 메인 화면 구성
-![메인화면](https://github.com/user-attachments/assets/fac5a86c-beb4-4681-8457-4555bb04c516)
+https://github.com/user-attachments/assets/0dfc5127-4534-4bca-8404-cce481034573
 
 ##### 메인 화면 - 예금 계산기
-![메인화면 - 예금 계산기](https://github.com/user-attachments/assets/d5581ccc-2557-48b4-be19-f4bc2c72d5d2)
+https://github.com/user-attachments/assets/2dca2aaa-dead-49a2-944d-5bf013bb4e46
 
 ##### 메인 화면 - 환율 차트
-![메인화면 - 환율 차트(https://github.com/user-attachments/assets/a35de7ff-b83c-4d7b-9670-1104f61c2d3e)
+https://github.com/user-attachments/assets/5b1dcec0-a9e4-4f03-a26d-fb6121240bf0
 
 ##### 메인 화면 - 은행 사이트
-![메인화면 - 은행 사이트](https://github.com/user-attachments/assets/ce58b638-9e17-47a2-8fdb-9fd409e12ea8)
-
-##### 메인 화면 - 카우셀 이동
-![메인화면 - 카우셀 이동](https://github.com/user-attachments/assets/46b70997-c5dd-409f-9976-536b2dc41e01)
+https://github.com/user-attachments/assets/24036f43-ba6a-4ac0-8fec-46cdf0378043
 
 <br/>
 
@@ -250,7 +247,6 @@ https://github.com/user-attachments/assets/bd4f122f-9f77-4a0f-b6b0-027f3046239f
 #### 정기 예금 상세 페이지  
 선택한 정기 예금 상품의 상세 정보를 제공하는 페이지.  
 
-![예적금 화면](https://github.com/user-attachments/assets/2fa651f1-98ae-42f5-8e54-d3f642b9b3a2)
 
 #### 정기 적금 검색하기 페이지  
 여러 정기 적금 상품을 찾아볼 수 있는 화면.  
@@ -258,40 +254,58 @@ https://github.com/user-attachments/assets/bd4f122f-9f77-4a0f-b6b0-027f3046239f
 #### 정기 적금 상세 페이지  
 특정 정기 적금 상품에 대한 자세한 정보를 보여주는 화면.  
 
-[예적금 화면 - 적금](https://github.com/user-attachments/assets/2e95a8b4-5e67-465e-924c-63d9a6abca34)
+https://github.com/user-attachments/assets/86299277-fd78-45ca-bc40-f03e02b850a1
 
 <br/>
 
 #### 환율 계산기 페이지  
 다양한 통화의 환율을 계산하고 환전 금액을 쉽게 확인할 수 있는 페이지.  
-![환율 계산기 - 차트](https://github.com/user-attachments/assets/6c57f11a-c433-4c7b-b286-96b1ebb16aa0)
+https://github.com/user-attachments/assets/e299c7c9-2653-4929-86fe-c63b267ca63b
+
+https://github.com/user-attachments/assets/5b0d9052-39b4-4ba8-b9e4-2773e9a50c61
 
 <br/>
 
 #### 주변 은행 페이지  
 카카오 맵 API를 사용해 사용자의 위치를 기반으로 주변 은행 지점을 보여주는 화면.  
-![화면 기록 2024-11-27 오전 5 09 39 (1)](https://github.com/user-attachments/assets/227ec22f-e549-4d47-b22d-3c26b88be67b)
+https://github.com/user-attachments/assets/e10e9f84-58e0-492d-b6a3-3ceb236c1ada
+
+https://github.com/user-attachments/assets/aaf040f4-00f5-49b6-8b4d-5879080dd897
 
 <br/>
 
 #### 커뮤니티 페이지  
-사용자 간 소통을 위한 게시판 및 커뮤니티 기능을 제공하는 페이지.  
-![커뮤니티 페이지](./src/images/community.png)
+사용자 간 소통을 위한 게시판 및 커뮤니티 기능을 제공하는 페이지.
+https://github.com/user-attachments/assets/ba55a50c-3bd5-4547-8f2b-8138a49b1fa3
+https://github.com/user-attachments/assets/1100d39d-a2dd-4293-9b9e-63ac5052a550
+https://github.com/user-attachments/assets/95282f75-66ae-4351-ac76-caa6540dc742
+https://github.com/user-attachments/assets/029e7c0e-0a75-44ce-96f3-4a90eb9dece5
+https://github.com/user-attachments/assets/233d1a33-744f-47b4-9b0b-def70c8c2450
+
 
 #### 회원정보 관리 페이지  
 사용자 정보 확인 및 수정이 가능한 화면.  
-![회원정보 관리 페이지](./src/images/profile.png)
+
+https://github.com/user-attachments/assets/2db67b5b-a3a3-4bd7-b1c2-d9c38ca08e4c
+https://github.com/user-attachments/assets/a28f5954-f52d-45d1-8731-68d4b1771ecf
 
 #### 관심상품 관리 페이지  
 사용자가 관심을 가진 금융 상품을 관리하는 화면.  
-![관심상품 관리 페이지](./src/images/profilebank.png)
 
 #### 관심상품 상세 페이지  
 사용자가 관심을 등록한 특정 상품에 대한 상세 정보를 제공하는 화면.  
-![관심상품 상세 페이지](./src/images/profilebankchart.png)
+https://github.com/user-attachments/assets/809fb4b6-b07c-4e79-aecb-2990e16145b7
 
 #### 상품 추천받기 페이지  
 사용자의 입력 정보를 바탕으로 맞춤형 금융 상품을 추천해주는 화면.
+https://github.com/user-attachments/assets/f921d9fa-d79e-4a21-8efb-ee1952fab32b
+https://github.com/user-attachments/assets/04f23370-f530-435d-9dbf-a42aa3348099
+
+#### 챗봇 기능
+사용자의 입력 정보를 바탕으로 금융상품및 주변은행위치, 환율등을 채팅으로 알려주는 서비스.
+https://github.com/user-attachments/assets/363ac172-5fce-4090-8bf3-0839f9577743
+https://github.com/user-attachments/assets/ae1d81c5-5e3f-4c1d-b0d5-7cb0b02e813f
+https://github.com/user-attachments/assets/1a2bf1a6-fdff-4677-8cb9-ee0c65e70b35
 
 <br/>
 <br/>
