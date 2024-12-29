@@ -276,36 +276,49 @@ https://github.com/user-attachments/assets/aaf040f4-00f5-49b6-8b4d-5879080dd897
 
 #### 커뮤니티 페이지  
 사용자 간 소통을 위한 게시판 및 커뮤니티 기능을 제공하는 페이지.
-https://github.com/user-attachments/assets/ba55a50c-3bd5-4547-8f2b-8138a49b1fa3
-https://github.com/user-attachments/assets/1100d39d-a2dd-4293-9b9e-63ac5052a550
-https://github.com/user-attachments/assets/95282f75-66ae-4351-ac76-caa6540dc742
-https://github.com/user-attachments/assets/029e7c0e-0a75-44ce-96f3-4a90eb9dece5
-https://github.com/user-attachments/assets/233d1a33-744f-47b4-9b0b-def70c8c2450
+
+https://github.com/user-attachments/assets/213557e6-e444-4ee3-8680-ead9e97a694b
+
+https://github.com/user-attachments/assets/e97ece93-71ed-4cd3-b95f-0c6241cf8451
+
+https://github.com/user-attachments/assets/20d012f6-258d-4375-8df2-85bd12a4da49
+
+https://github.com/user-attachments/assets/b9da45d0-4541-477a-9554-b48e7a642be4
+
+https://github.com/user-attachments/assets/81d59ee2-64c4-43ae-b15f-0a3aeaa7588e
 
 
 #### 회원정보 관리 페이지  
 사용자 정보 확인 및 수정이 가능한 화면.  
 
-https://github.com/user-attachments/assets/2db67b5b-a3a3-4bd7-b1c2-d9c38ca08e4c
-https://github.com/user-attachments/assets/a28f5954-f52d-45d1-8731-68d4b1771ecf
+https://github.com/user-attachments/assets/75abeb77-d92b-4792-bd5d-8672a74bcb63
+
+https://github.com/user-attachments/assets/8ea8624f-8ada-4a24-98ff-8a57720cebad
+
 
 #### 관심상품 관리 페이지  
 사용자가 관심을 가진 금융 상품을 관리하는 화면.  
 
 #### 관심상품 상세 페이지  
 사용자가 관심을 등록한 특정 상품에 대한 상세 정보를 제공하는 화면.  
-https://github.com/user-attachments/assets/809fb4b6-b07c-4e79-aecb-2990e16145b7
+
+https://github.com/user-attachments/assets/21887c04-bfa5-4159-81b9-62c2da825482
 
 #### 상품 추천받기 페이지  
 사용자의 입력 정보를 바탕으로 맞춤형 금융 상품을 추천해주는 화면.
-https://github.com/user-attachments/assets/f921d9fa-d79e-4a21-8efb-ee1952fab32b
-https://github.com/user-attachments/assets/04f23370-f530-435d-9dbf-a42aa3348099
+
+https://github.com/user-attachments/assets/3abd7dd1-8523-4145-a257-2eaa5182adab
+
+https://github.com/user-attachments/assets/d9f826fc-066a-4de0-a430-671927d86723
 
 #### 챗봇 기능
 사용자의 입력 정보를 바탕으로 금융상품및 주변은행위치, 환율등을 채팅으로 알려주는 서비스.
-https://github.com/user-attachments/assets/363ac172-5fce-4090-8bf3-0839f9577743
-https://github.com/user-attachments/assets/ae1d81c5-5e3f-4c1d-b0d5-7cb0b02e813f
-https://github.com/user-attachments/assets/1a2bf1a6-fdff-4677-8cb9-ee0c65e70b35
+
+https://github.com/user-attachments/assets/70428f94-f6ec-4d8c-8bf9-92fc933ee908
+
+https://github.com/user-attachments/assets/ecd159b6-0fab-47fa-8117-2a6b36953829
+
+https://github.com/user-attachments/assets/e26c4a4e-3e68-46a9-b1e7-bb77d2b336bc
 
 <br/>
 <br/>
