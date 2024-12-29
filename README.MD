@@ -93,12 +93,12 @@
 
 ## 설계 및 데이터베이스 구조 📊
 ### 🍀 설계 아키텍처
-![title](https://github.com/user-attachments/assets/436d7ede-bf03-4ca3-9e7f-fe280dd84270)   
+![설계 아키텍처 (수정 후)](https://github.com/user-attachments/assets/7ffbf3e9-4e1d-44a8-a890-d24d8cb17233)
 
 <br/>
 
 ### ☁ 데이터베이스 모델링(ERD)
-![title](https://github.com/user-attachments/assets/39d87e54-9385-4483-b856-c0570b80b877)   
+![image](https://github.com/user-attachments/assets/5ceb7dc2-397f-4ce4-ba03-97f3323eac46)
 
 <br/>
 
@@ -107,13 +107,14 @@
 
 [**Figma**](https://www.figma.com/design/dDetrQDZK7zapQfm4PAs4r/bank-web-project?node-id=0-1&t=b9xu6cysizeSGOdb-1)
 
-<img width="1117" alt="스크린샷 2024-11-27 오전 5 58 26" src="https://github.com/user-attachments/assets/2b003607-a50d-41ad-bca0-e7dbc90936cc">
+![image](https://github.com/user-attachments/assets/3094f9b4-d1ec-47df-a34a-dcb91ed4ed7a)
 
 <br/>
 <br/>
 
 ### 🖼 디자인 목업
-<img width="816" alt="스크린샷 2024-11-27 오전 6 14 10" src="https://github.com/user-attachments/assets/01cd94c2-85ad-4876-affa-cdc5dfbf1696">
+![디자인 목업](https://github.com/user-attachments/assets/7d59b36d-ce0a-4f2c-9d2a-df40c6cee4f3)
+
 
 <br/>
 <br/>
