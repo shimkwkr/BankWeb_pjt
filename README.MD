@@ -113,7 +113,7 @@
 <br/>
 
 ### 🖼 디자인 목업
-![디자인 목업](https://github.com/user-attachments/assets/7d59b36d-ce0a-4f2c-9d2a-df40c6cee4f3)
+![디자인 목업](https://github.com/user-attachments/assets/069939af-5bbd-46ba-bba9-1d72482c227a)
 
 
 <br/>
@@ -240,7 +240,7 @@
 #### 회원가입 페이지  
 새로운 사용자가 회원으로 가입할 수 있는 화면.  
 
-![회원가입](https://github.com/user-attachments/assets/57ec0d6c-6c4f-4ae1-b476-7dd76a11d461)
+https://github.com/user-attachments/assets/bd4f122f-9f77-4a0f-b6b0-027f3046239f
 
 <br/>
 
