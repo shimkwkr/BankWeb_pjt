@@ -314,11 +314,6 @@ https://github.com/user-attachments/assets/d9f826fc-066a-4de0-a430-671927d86723
 #### 챗봇 기능
 사용자의 입력 정보를 바탕으로 금융상품및 주변은행위치, 환율등을 채팅으로 알려주는 서비스.
 
-https://github.com/user-attachments/assets/70428f94-f6ec-4d8c-8bf9-92fc933ee908
-
-https://github.com/user-attachments/assets/ecd159b6-0fab-47fa-8117-2a6b36953829
-
-https://github.com/user-attachments/assets/e26c4a4e-3e68-46a9-b1e7-bb77d2b336bc
 
 <br/>
 <br/>
