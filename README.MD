@@ -447,4 +447,4 @@ https://github.com/user-attachments/assets/d9f826fc-066a-4de0-a430-671927d86723
 
 ### 기타
 **참조 링크**: 프로젝트와 관련된 외부 링크나 참고 자료를 추가합니다.  
-- [Notion 프로젝트 페이지] https://www.notion.so/ssafy-jinhyeok/3-Bang-Bang-BanK-1377f669b133800c8d13d670f9055e41
+- [Notion 프로젝트 페이지] https://delightful-modem-98e.notion.site/3-Bang-Bang-BanK-14edb04799e1807f998ee0d94b6d0d34?pvs=4
